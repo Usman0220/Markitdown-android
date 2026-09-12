@@ -1,0 +1,7 @@
+{
+  "name": "MarkItDown",
+  "description": "Convert PDFs, Office docs, spreadsheets, presentations, HTML, images, and audio into clean Markdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
